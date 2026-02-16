@@ -1,4 +1,4 @@
-# Array Questions
+<!-- # Array Questions
 
 ## 1. Largest Element
 Find the maximum value in array.
@@ -9,7 +9,7 @@ for(int i=1;i<arr.length;i++){
     if(arr[i] > max){
         max = arr[i];
     }
-}
+} -->
 
 ---
 
@@ -18,7 +18,7 @@ for(int i=1;i<arr.length;i++){
 ### Question
 Given an array containing numbers from 1 to n+1 with one number missing, find the missing number.
 
-Example:
+Example:  
 [1,2,4,5] → Missing = 3
 
 ### Solution
