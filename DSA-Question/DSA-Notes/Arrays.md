@@ -11,17 +11,17 @@ for(int i=1;i<arr.length;i++){
     }
 }
 
----
+```
 
-## 2. Find Missing Number
+## **2. Find Missing Number**
 
-### Question
-Given an array containing numbers from 1 to n+1 with one number missing, find the missing number.
+### **Question**
+Given an array containing numbers from **1 to n+1** with one number missing, find the missing number.
 
-Example:  
-[1,2,4,5] → Missing = 3
+**Example:**  
+`[1,2,4,5] → Missing = 3`
 
-### Solution
+### **Solution**
 
 ```java
 int n = arr.length + 1;
@@ -34,4 +34,4 @@ for(int num : arr){
 
 int missing = expectedSum - actualSum;
 
---- 
+``` 
