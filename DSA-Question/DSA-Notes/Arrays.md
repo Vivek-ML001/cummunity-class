@@ -12,7 +12,7 @@ for(int i=1;i<arr.length;i++){
 } -->
 
 ---
-
+<!--
 ## 5. Find Missing Number
 
 ### Question
